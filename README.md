@@ -1,5 +1,3 @@
-# react-projects-7-slider
+#### Values JS
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[values.js](https://github.com/noeldelgado/values.js)
